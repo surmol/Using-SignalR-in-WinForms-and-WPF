@@ -1,0 +1,17 @@
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\WPFClient.exe
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\WPFClient.pdb
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\MainWindow.baml
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\App.g.cs
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.exe
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.pdb

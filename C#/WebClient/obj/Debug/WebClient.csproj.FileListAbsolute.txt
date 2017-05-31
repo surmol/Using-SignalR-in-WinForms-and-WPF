@@ -1,0 +1,6 @@
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WebClient\bin\WebClient.dll.config
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WebClient\bin\WebClient.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WebClient\bin\WebClient.pdb
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WebClient\obj\Debug\WebClient.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WebClient\obj\Debug\WebClient.pdb
